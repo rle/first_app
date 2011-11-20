@@ -32,10 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.markdown" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.12077295">
               <folding />
             </state>
           </provider>
@@ -52,6 +61,7 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.markdown" />
       </list>
     </option>
   </component>
@@ -366,6 +376,13 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.12077295">
           <folding />
         </state>
       </provider>
